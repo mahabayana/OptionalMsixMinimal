@@ -1,0 +1,23 @@
+{
+  "models": [
+    {
+      "id": "optional-msix-demo",
+      "name": "optional-msix-demo",
+      "version": "1.0.0.0",
+      "publisher": "CN=OptionalMsixMinimal",
+      "executionProviders": [
+        { "name": "CPUExecutionProvider" }
+      ],
+      "license": "LicenseRef-Unspecified",
+      "licenseUri": "https://github.com/mahabayana/OptionalMsixMinimal/releases/tag/v1.0.0.0#model-license",
+      "uri": "https://github.com/mahabayana/OptionalMsixMinimal/releases/tag/v1.0.0.0",
+      "packages": [
+        {
+          "packageFamilyName": "OptionalMsixMinimal.Optional_d21ncgpygpwsp",
+          "uri": "https://github.com/mahabayana/OptionalMsixMinimal/releases/download/v1.0.0.0/Optional.msix",
+          "sha256": "2DC88AB40B4468C1B3A61804927B006439DF9F45F65FECEA6E562328B4BBD801"
+        }
+      ]
+    }
+  ]
+}
